@@ -2,8 +2,10 @@
 +  [Summary Statistics](#Summary-Statistics)
 + chapter 2
 + chapter 3
-## Summary Statistics  
-
+# Summary Statistics  
+<details>
+  <summary>What is an Statistics:</summary> 
+  <blockquote>
 <details>
   <summary>What is an Statistics</summary>
  
@@ -54,4 +56,6 @@
   ### Example:
   ![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/f569cbaa-171c-459b-aed9-20881afc681b)
 
+</details>
+  </blockquote>
 </details>
