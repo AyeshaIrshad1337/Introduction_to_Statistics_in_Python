@@ -34,3 +34,20 @@
   ![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/d54c9998-052a-4e7f-a31d-89c626f475ba)
 
 </details>
+<details>
+  <summary>Types Of Data</summary>
+  
+ ### Numeric (Quantitaive)
+  + **Continuous (Measured)**
+  + Airplane speed
+  + Time spent waiting in line
+  + **Discete (Counted)**
+  + Number of pets
+  + Number of Packages shipped
+ ### Categorical (Qualitative)
+  + **Nomial (Unordered)**
+  + Married/Unmarried
+  + Country of residence
+  + **Ordinal (Ordered)**
+  + Strongly agreee / Somewhat disagree / Strongly disagree etc
+</details>
