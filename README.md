@@ -51,4 +51,7 @@
   + Country of residence
   + **Ordinal (Ordered)**: 
   + Strongly agreee / Somewhat disagree / Strongly disagree etc
+  ### Example:
+  ![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/f569cbaa-171c-459b-aed9-20881afc681b)
+
 </details>
