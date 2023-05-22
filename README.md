@@ -20,6 +20,7 @@
 </details>
 <details>
   <summary>What Statistics Cannot do?</summary> 
+  
   + While statistics can answer a lot of questions, it's important to note that statistics can't answer every question
 </details>
 
@@ -38,16 +39,16 @@
   <summary>Types Of Data</summary>
   
  ### Numeric (Quantitaive)
-  + **Continuous (Measured)**
+  + **Continuous (Measured)**: 
   + Airplane speed
   + Time spent waiting in line
-  + **Discete (Counted)**
+  + **Discete (Counted)**: 
   + Number of pets
   + Number of Packages shipped
  ### Categorical (Qualitative)
-  + **Nomial (Unordered)**
+  + **Nomial (Unordered)**: 
   + Married/Unmarried
   + Country of residence
-  + **Ordinal (Ordered)**
+  + **Ordinal (Ordered)**: 
   + Strongly agreee / Somewhat disagree / Strongly disagree etc
 </details>
