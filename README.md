@@ -59,3 +59,13 @@
 </details>
   </blockquote>
 </details>
+<details>
+  <summary>Measure Of Center</summary>
+  <blockquote>
+    
+    <details>
+      <summary></summary>
+    </details>
+    
+  </blockquote>
+</details>
