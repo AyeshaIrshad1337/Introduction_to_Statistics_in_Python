@@ -191,5 +191,13 @@ Mean absolute deviation takes the absolute value of the distances to the mean, a
 
  Quantiles, also called percentiles, split up the data into some number of equal parts. Here, we call np-dot-quantile, passing in the column of interest, followed by point-5. This gives us 10-point-1 hours, so 50% of mammals in the dataset sleep less than 10-point-1 hours a day, and the other 50% sleep more than 10-point-1 hours, so this is exactly the same as the median. We can also pass in a list of numbers to get multiple quantiles at once. Here, we split the data into 4 equal parts. These are also called quartiles. This means that 25% of the data is between 1-point-9 and 7-point-85, another 25% is between 7-point-85 and 10-point-10, and so on.
 </details>
+<details>
+  <summary>BoxPlot</summary>
+    
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/c9ff3496-3656-49c1-bf29-9b3b95f6e508)
+
+ The boxes in box plots represent quartiles. The bottom of the box is the first quartile, and the top of the box is the third quartile. The middle line is the second quartile, or the median
+</details>
+    
   </blockquote>
 </details>
