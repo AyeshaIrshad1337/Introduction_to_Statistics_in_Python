@@ -178,8 +178,18 @@ The standard deviation is another measure of spread, calculated by taking the sq
     
 ![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/65f82a41-7d8b-4c1c-9d5f-4dd14033bb14)
     
-Mean absolute deviation takes the absolute value of the distances to the mean, and then takes the mean of those differences. While this is similar to standard deviation, it's not exactly the same. Standard deviation squares distances, so longer distances are penalized more than shorter ones, while mean absolute deviation penalizes each distance equally. One isn't better than the other, but SD is more common than MAD.
-</details>
+Mean absolute deviation takes the absolute value of the distances to the mean, and then takes the mean of those differences. While this is similar to standard deviation, it's not exactly the same. Standard deviation squares distances, so longer distances are penalized more than shorter ones, while mean absolute deviation penalizes each distance equally. One isn't better than the other, but SD is more common than MAD.  
     
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/2f7ae86a-a3c9-4332-89c7-91a24fad2960)
+  
+  
+</details>
+<details>
+  <summary>Quantile</summary>
+    
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/be5ecc9f-3f25-4d99-b0c6-15d36da3a2a6)
+
+ Quantiles, also called percentiles, split up the data into some number of equal parts. Here, we call np-dot-quantile, passing in the column of interest, followed by point-5. This gives us 10-point-1 hours, so 50% of mammals in the dataset sleep less than 10-point-1 hours a day, and the other 50% sleep more than 10-point-1 hours, so this is exactly the same as the median. We can also pass in a list of numbers to get multiple quantiles at once. Here, we split the data into 4 equal parts. These are also called quartiles. This means that 25% of the data is between 1-point-9 and 7-point-85, another 25% is between 7-point-85 and 10-point-10, and so on.
+</details>
   </blockquote>
 </details>
