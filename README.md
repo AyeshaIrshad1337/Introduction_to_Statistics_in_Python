@@ -78,6 +78,21 @@ A histogram takes a bunch of data points and separates them into bins, or ranges
 The mean, often called the average, is one of the most common ways of summarizing data. To calculate mean, we add up all the numbers of interest and divide by the total number of data points, which is 83 here. This gives us 10-point-43 hours of sleep. In Python, we can use numpy's mean function, passing it the variable of interest.
 
 </details>
-    
+<details>
+      <summary>Measure Of Center : Median</summary>
+ 
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/9af45e5e-2691-4fc2-8da5-d92355351bef)
+  
+The median is the value where 50% of the data is lower than it, and 50% of the data is higher. We can calculate this by sorting all the data points and taking the middle one, which would be index 41 in this case. This gives us a median of 10-point-1 hours of sleep. In Python, we can use np-dot-median to do the calculations for us.
+  
+</details>
+<details>
+      <summary>Measure Of Center : Mode</summary>
+ 
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/c86448da-f099-4195-9aac-ab5cb42c07e8)
+ 
+The mode is the most frequent value in the data. If we count how many occurrences there are of each sleep_total and sort in descending order, there are 4 mammals that sleep for 12.5 hours, so this is the mode. The mode of the vore variable, which indicates the animal's diet, is herbivore. We can also find the mode using the mode function from the statistics module. Mode is often used for categorical variables, since categorical variables can be unordered and often don't have an inherent numerical representation.
+  
+</details>    
   </blockquote>
 </details>
