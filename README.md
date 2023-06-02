@@ -93,6 +93,24 @@ The median is the value where 50% of the data is lower than it, and 50% of the d
  
 The mode is the most frequent value in the data. If we count how many occurrences there are of each sleep_total and sort in descending order, there are 4 mammals that sleep for 12.5 hours, so this is the mode. The mode of the vore variable, which indicates the animal's diet, is herbivore. We can also find the mode using the mode function from the statistics module. Mode is often used for categorical variables, since categorical variables can be unordered and often don't have an inherent numerical representation.
   
-</details>    
+</details>
+
+<details>
+      <summary>Adding Outlier</summary>
+ 
+ We get a mean sleep time of 16-point-5 hours and a median sleep time of 18-point-9 hours.  
+  
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/760b285f-4ea2-4f34-8c01-907d47aaf2f1)
+
+Now let's say we've discovered a new mystery insectivore that never sleeps. i.e row 89 has sleep 0.0
+
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/a5706b58-6151-4727-ae91-753a93aef10a)
+
+If we take the mean and median again, we get different results. The mean went down by more than 3 hours, while the median changed by less than an hour. This is because the mean is much more sensitive to extreme values than the median.  
+  
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/7313073f-c922-4060-bf21-21f953a4ddcd)
+  
+  
+</details>
   </blockquote>
 </details>
