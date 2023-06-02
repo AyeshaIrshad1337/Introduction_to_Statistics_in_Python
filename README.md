@@ -62,10 +62,14 @@
 <details>
   <summary>Measure Of Center</summary>
   <blockquote>
-    
-    <details>
-      <summary></summary>
-    </details>
+<details>
+      <summary>Historgram</summary>
+      
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/c7fc9606-35bf-441d-9d4d-b773dd0569e0)
+
+A histogram takes a bunch of data points and separates them into bins, or ranges of values. Here, there's a bin for 0 to 2 hours, 2 to 4 hours, and so on. The heights of the bars represent the number of data points that fall into that bin, so there's one mammal in the dataset that sleeps between 0 to 2 hours, and nine mammals that sleep two to four hours. Histograms are a great way to visually summarize the data, but we can use numerical summary statistics to summarize even further.
+   
+</details>
     
   </blockquote>
 </details>
