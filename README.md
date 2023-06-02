@@ -176,6 +176,7 @@ The standard deviation is another measure of spread, calculated by taking the sq
 <details>
   <summary>Mean Absolute Deviation : MAD</summary>
     
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/65f82a41-7d8b-4c1c-9d5f-4dd14033bb14)
     
 Mean absolute deviation takes the absolute value of the distances to the mean, and then takes the mean of those differences. While this is similar to standard deviation, it's not exactly the same. Standard deviation squares distances, so longer distances are penalized more than shorter ones, while mean absolute deviation penalizes each distance equally. One isn't better than the other, but SD is more common than MAD.
 </details>
