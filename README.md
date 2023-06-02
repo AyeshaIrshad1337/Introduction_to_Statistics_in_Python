@@ -112,5 +112,26 @@ If we take the mean and median again, we get different results. The mean went do
   
   
 </details>
+
+<details>
+      <summary>Which Measure to Use ? </summary>
+  
+ ![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/c1e27433-9270-4eb9-b3b9-e86f752fb60e)
+
+  
+ Since the mean is more sensitive to extreme values, it works better for symmetrical data like this. Notice that the mean, in black, and median, in red, are quite close.
+  
+</details>
+<details>
+      <summary>Skew </summary>
+  
+ ![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/2b8a6d62-75b2-4b7b-b9a8-6035260f4de3)
+  
+However, if the data is skewed, meaning it's not symmetrical, like this, median is usually better to use. In this histogram, the data is piled up on the right, with a tail on the left. Data that looks like this is called left-skewed data. When data is piled up on the left with a tail on the right, it's right-skewed.
+ ## Which measure to use?
+  
+  When data is skewed, the mean and median are different. The mean is pulled in the direction of the skew, so it's lower than the median on the left-skewed data, and higher than the median on the right-skewed data. Because the mean is pulled around by the extreme values, it's better to use the median since it's less affected by outliers.
+    
+</details>
   </blockquote>
 </details>
