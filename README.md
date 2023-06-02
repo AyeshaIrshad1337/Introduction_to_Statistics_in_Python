@@ -135,3 +135,37 @@ However, if the data is skewed, meaning it's not symmetrical, like this, median 
 </details>
   </blockquote>
 </details>
+<details>
+  <summary>Measure Of Spread: </summary>
+  <blockquote>
+  
+<details>
+  <summary>What is Spread?</summary>
+  
+  ![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/0f4ceacb-8736-45b7-99f6-cb289c2015dd)
+
+  Spread is just what it sounds like - it describes how spread apart or close together the data points are. Just like measures of center, there are a few different measures of spread.
+</details>
+
+<details>
+  <summary>Variance</summary>
+  
+  ![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/e84744db-2b1c-420e-9c22-9d05234156fe)
+
+  Average Distance from each data point to the data's mean  
+  ## Calculate the Variance  
+  
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/2a3d0d9b-5fda-4981-b077-3d87e18973f6)  
+    
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/eadc36dc-141c-4c9b-ab4a-fa06f1fb6fb0)
+
+  To calculate the variance, we start by calculating the distance between each point and the mean, so we get one number for every data point. We then square each distance and then add them all together. Finally, we divide the sum of squared distances by the number of data points minus 1, giving us the variance. The higher the variance, the more spread out the data is. It's important to note that the units of variance are squared, so in this case, it's 19-point-8 hours squared.   
+  
+  ![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/ee033693-f1bd-4f3f-8d99-a72080ab5ce2)
+
+  
+   We can calculate the variance in one step using np-dot-var, setting the ddof argument to 1. If we don't specify ddof equals 1, a slightly different formula is used to calculate variance that should only be used on a full population, not a sample.
+</details>
+    
+  </blockquote>
+</details>
