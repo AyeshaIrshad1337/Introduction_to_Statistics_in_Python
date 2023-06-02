@@ -166,6 +166,19 @@ However, if the data is skewed, meaning it's not symmetrical, like this, median 
   
    We can calculate the variance in one step using np-dot-var, setting the ddof argument to 1. If we don't specify ddof equals 1, a slightly different formula is used to calculate variance that should only be used on a full population, not a sample.
 </details>
+<details>
+  <summary>Standard Deviation</summary>
+  
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/92e8807e-b6d4-4b19-a2c8-397b06a9c3ab)
+
+The standard deviation is another measure of spread, calculated by taking the square root of the variance. It can be calculated using np-dot-std. Just like np-dot-var, we need to set ddof to 1. The nice thing about standard deviation is that the units are usually easier to understand since they're not squared. It's easier to wrap your head around 4 and a half hours than 19-point-8 hours squared.
+</details>
+<details>
+  <summary>Mean Absolute Deviation : MAD</summary>
+    
+    
+Mean absolute deviation takes the absolute value of the distances to the mean, and then takes the mean of those differences. While this is similar to standard deviation, it's not exactly the same. Standard deviation squares distances, so longer distances are penalized more than shorter ones, while mean absolute deviation penalizes each distance equally. One isn't better than the other, but SD is more common than MAD.
+</details>
     
   </blockquote>
 </details>
