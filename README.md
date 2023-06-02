@@ -198,6 +198,13 @@ Mean absolute deviation takes the absolute value of the distances to the mean, a
 
  The boxes in box plots represent quartiles. The bottom of the box is the first quartile, and the top of the box is the third quartile. The middle line is the second quartile, or the median
 </details>
+<details>
+  <summary>Quantile using np.linespace</summary>
+    
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/b0599ca9-8065-44f0-9115-10089ba8d3d8)
+
+we split the data in five equal pieces, but we can also use np-dot-linspace as a shortcut, which takes in the starting number, the stopping number, and the number intervals. We can compute the same quantiles using np-dot-linspace starting at zero, stopping at one, splitting into 5 different intervals
+</details>
     
   </blockquote>
 </details>
