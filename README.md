@@ -214,6 +214,16 @@ we split the data in five equal pieces, but we can also use np-dot-linspace as a
 The interquartile range, or IQR, is another measure of spread. It's the distance between the 25th and 75th percentile, which is also the height of the box in a boxplot. We can calculate it using the quantile function, or using the iqr function from scipy-dot-stats to get 5-point-9 hours.  
    
 </details>
+<details>
+  <summary>Outliers</summary>
+      
+Outliers are data points that are substantially different from the others. But how do we know what a substantial difference is? A rule that's often used is that any data point less than the first quartile minus 1-point-5 times the IQR is an outlier, as well as any point greater than the third quartile plus 1-point-5 times the IQR.  
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/85bf1b0e-7807-4d5a-b050-908f9d308927)
+    
+  ## Finding Outliers  
+  ![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/c377de1e-efd6-4498-940f-8fa516943001)
+
+</details>
 
   </blockquote>
 </details>
