@@ -226,6 +226,7 @@ Outliers are data points that are substantially different from the others. But h
 </details>
 
   </blockquote>
-</details>
+</details>  
+
 ## All IN ONE GO  
 ![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/15a2b184-1739-477f-9349-8000c0437253)
