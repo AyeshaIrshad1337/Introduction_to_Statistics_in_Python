@@ -205,6 +205,15 @@ Mean absolute deviation takes the absolute value of the distances to the mean, a
 
 we split the data in five equal pieces, but we can also use np-dot-linspace as a shortcut, which takes in the starting number, the stopping number, and the number intervals. We can compute the same quantiles using np-dot-linspace starting at zero, stopping at one, splitting into 5 different intervals
 </details>
+<details>
+  <summary>IQR: Inter Quartile Range</summary>
     
+![image](https://github.com/AyeshaIrshad1337/Introduction_to_Statistics_in_Python/assets/104616632/2884d7a2-a7b2-4a27-9b76-6bc250cd13f7)
+
+
+The interquartile range, or IQR, is another measure of spread. It's the distance between the 25th and 75th percentile, which is also the height of the box in a boxplot. We can calculate it using the quantile function, or using the iqr function from scipy-dot-stats to get 5-point-9 hours.  
+   
+</details>
+
   </blockquote>
 </details>
